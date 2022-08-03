@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: #EEEEEEEE;
+    background-color: blue;
+}
+
+#evento{
+    position: relative;
+}
+
+
+h1{
+    color: #EEEEEEEE;
+    text-align: center;
+}
+p{
+    color: #EEEEEEEE;
+}
